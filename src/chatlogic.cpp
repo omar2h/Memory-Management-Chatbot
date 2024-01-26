@@ -16,7 +16,7 @@ ChatLogic::ChatLogic()
 {
     //// STUDENT CODE
     ////
-
+    
     // create instance of chatbot
     _chatBot = new ChatBot("../images/chatbot.png");
 

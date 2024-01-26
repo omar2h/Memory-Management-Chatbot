@@ -1,3 +1,5 @@
 .github/**
 tasks.json
 .vscode
+build/**
+build/CMakeFiles/membot.dir/compiler_depend.internal
